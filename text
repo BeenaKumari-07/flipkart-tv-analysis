@@ -1,0 +1,8 @@
+flipkart-tv-analysis/
+│
+├── data/
+│   └── (Your scraped csv data will save here automatically)
+│
+├── scraper_and_analysis.py   # The master script containing your complete pipeline
+├── requirements.txt          # List of external libraries for easy installation
+└── README.md                 # Your project documentation and final analysis report
